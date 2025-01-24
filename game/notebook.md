@@ -1,4 +1,5 @@
-# Detective's Notebook
+
+## Detective's Notebook
 
 ## Suspects
 - [ ] The Jocker
@@ -12,5 +13,6 @@
 
 ## Notes
 *Use this space to record your findings and deductions...*
-
+La primera ubicacion a la que ingrese fue el park no hay nada
+me movi a gazebo no hay nada
 Location of the crime is still unknown - the room must have been empty when it happened...
