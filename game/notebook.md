@@ -36,7 +36,10 @@ Fui a cafeteria, no había nada. Fui a kitchen (de school), no había nada.
 Fui a classrooms, no había nada. Fui a art room, no habia nada. 
 Fui a science lab,no había nada. Fui a gymnasium, no había nada. 
 Voy a regresar a investigar houses ya que no había terminado de investigarlas por completo. 
-  
+Entré a cottage y voy al cellar, no habia nada. Fui a living room, no había nada. 
+fui a mansion, me movi al garden,  fui a greenhouse, no habia nada.
+Fui a library, no habia nada. Fui a Study, no habia nada. 
+Voy a revisar todo otra vez pq no he encontrado ni el arma ni el culpable.  
 
 Location of the crime is THE DOCK - the room must have been empty when it happened...
 
