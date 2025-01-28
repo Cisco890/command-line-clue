@@ -39,7 +39,9 @@ Voy a regresar a investigar houses ya que no había terminado de investigarlas p
 Entré a cottage y voy al cellar, no habia nada. Fui a living room, no había nada. 
 fui a mansion, me movi al garden,  fui a greenhouse, no habia nada.
 Fui a library, no habia nada. Fui a Study, no habia nada. 
-Voy a revisar todo otra vez pq no he encontrado ni el arma ni el culpable.  
+Voy a revisar todo otra vez pq no he encontrado ni el arma ni el culpable. Quedan dos sospechosos: The Clockmaker y The Tailor; de igual manera quedan dos armas: kitchen Knife
+y Silver Watch, por lo que llegué a la siguiente conclusión: El asesinato fue hecho por dos personas que se pusieron de acuerdo para llevarlo a cabo, The Clockmaker utilizó el Silver Watch
+y The Tailor utilizó el Kitchen Knife.
 
 Location of the crime is THE DOCK - the room must have been empty when it happened...
 
